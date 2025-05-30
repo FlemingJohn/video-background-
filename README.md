@@ -1,6 +1,4 @@
-Sure! Below is your **entire `README.md` content** as a **single continuous markdown file**, with no explanations or breakdowns—just the plain content you can copy and paste directly into your `README.md` file:
 
----
 
 # 🎬 Hero Section with Background Video
 
@@ -47,6 +45,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Made with ❤️ using HTML5 + CSS3.
 
----
-
-Let me know if you want a preview image section or GitHub Pages link added.
